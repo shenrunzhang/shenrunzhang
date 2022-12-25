@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an undergrad at Rice interested in computer science, machine learning, and robotics.
+
+Currently working on an ML model to predict the Forex market. My other projects include autonomous vehicle path-finding and control, a computer vision target detection and classification pipeline for the SUAS drone competition, and person re-identification. 
+
 <!--
 **sjchang123/sjchang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
